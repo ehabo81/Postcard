@@ -43,6 +43,7 @@ class ViewController: UIViewController {
         
         enterNameTextField.resignFirstResponder()
         enterNameTextField.text = ""
+    
     }
 }
 
